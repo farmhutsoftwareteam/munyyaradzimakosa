@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/makosamunyaa#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/makosamunyaa#gh-dark-mode-only)
-&ensp;[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/makosa-munya/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/makosa-munya/#gh-dark-mode-only)
+### Connect with me:
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40makosamunyaa-blue?style=flat-square&logo=twitter)](https://twitter.com/makosamunyaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-makosa--munya-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/makosa-munya/)
 
 ### Languages and Tools:
 
@@ -34,6 +34,8 @@
 <br />
 
 ### 🚀 My Code Activity
+
+[![wakatime](https://wakatime.com/badge/user/39bf28fc-7eb2-4b42-96c5-486da45931fe.svg)](https://wakatime.com/@39bf28fc-7eb2-4b42-96c5-486da45931fe)
 
 [![Munya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=munyamakosa)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -60,27 +62,9 @@ Here's a quick guide to the emojis you might see around my projects:
 Stay tuned for updates and feel free to contribute!
 
 
-<!-- YOUTUBE:START -->
-- [Your Latest YouTube Video](Your Video URL)
-- [Another Video You Made](Another Video URL)
-<!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/yourusername)
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post](Your Blog Post URL)
-- [Another Recent Blog Post](Another Blog Post URL)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://yourblog.com)
-
----
-
-<img align="left" alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=farmhutsotfwareteam&show_icons=true&hide_border=true" />
+<img align="left" alt="Your GitHub Stats" src="https://githubreadmestats-iota.vercel.app/api?username=farmhutsotfwareteam&show_icons=true&hide_border=true" />
 
 [website]: https://yourwebsite.com
 [twitter]: https://twitter.com/yourusername
