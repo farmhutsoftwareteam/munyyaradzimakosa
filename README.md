@@ -29,11 +29,11 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 <img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" />
-<img align="left" alt="Expo" width="26px" src="https://raw.githubusercontent.com/expo/expo/master/.gh-assets/expo-icon.png" /> <!-- Expo doesn't have a GitHub topic image, using Expo's GitHub icon instead -->
+<img align="left" alt="Expo" width="26px" src="https://simpleicons.org/icons/expo.svg" /><!-- Expo doesn't have a GitHub topic image, using Expo's GitHub icon instead -->
 <img align="left" alt="Supabase" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="AI" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" /> <!-- Using a generic AI icon -->
-<img align="left" alt="ML" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" />
+ <!-- Using a generic AI icon -->
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
 <img align="left" alt="WhatsApp" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/whatsapp/whatsapp.png" />
 <br />
@@ -70,10 +70,3 @@ Stay tuned for updates and feel free to contribute!
 
 
 
-<img align="left" alt="Your GitHub Stats" src="https://githubreadmestats-iota.vercel.app/api?username=farmhutsotfwareteam&show_icons=true&hide_border=true" />
-
-[website]: https://yourwebsite.com
-[twitter]: https://twitter.com/yourusername
-[youtube]: https://youtube.com/yourusername
-[instagram]: https://instagram.com/yourusername
-[linkedin]: https://linkedin.com/in/yourusername
