@@ -2,7 +2,13 @@
 
 ## I'm a Developer, Creator,Entreprenur and Lifelong Learner!
 
-- 🔭 I’m currently working on an Astrology project, and Career's chatbot
+- 🔭 I’m currently working on an Astrology project, and Career's chatbot 
+
+ [![wakatime](https://wakatime.com/badge/user/39bf28fc-7eb2-4b42-96c5-486da45931fe/project/018ebf1e-bc35-4e46-9222-cd5d4401f621.svg)](https://wakatime.com/badge/user/39bf28fc-7eb2-4b42-96c5-486da45931fe/project/018ebf1e-bc35-4e46-9222-cd5d4401f621)
+
+[![wakatime](https://wakatime.com/badge/user/39bf28fc-7eb2-4b42-96c5-486da45931fe/project/018e79b3-9c7b-46a6-9e20-01e91e44eb3e.svg)](https://wakatime.com/badge/user/39bf28fc-7eb2-4b42-96c5-486da45931fe/project/018e79b3-9c7b-46a6-9e20-01e91e44eb3e)
+
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other entreprenuers, designers and software developers
 - 🥅 2024 Goals: To build for 1 million users
